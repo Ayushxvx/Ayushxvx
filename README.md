@@ -1,4 +1,7 @@
-[![MasterHead](https://giffiles.alphacoders.com/977/9770.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hoaTg5b254dXh3dDU1dmx2NDFhZzBpeDFpcXUzaDA1NDNrMXhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" alt="MasterHead">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
